@@ -11,7 +11,8 @@ public class Main {
 		int num1;
 		int num2;
 		int operators = 0;
-		
+		
+		System.out.println("1=Addition | 2=Substraction | 3. Multiplication | 4. Division");
 		System.out.print("First Number: ");
 		num1 = scan.nextInt();
 		
